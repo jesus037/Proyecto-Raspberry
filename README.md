@@ -1,6 +1,6 @@
 # Proyecto-Raspberry
 ## Descripción 
-Instalación de un SO (Ubuntu) en la Raspberry PI 400.
+Instalación de Ubuntu en la Raspberry PI 400.
 
 ## Índice
 1. [Introducción](https://github.com/jesus037/Proyecto-Raspberry/blob/main/Introducci%C3%B3n.md)
