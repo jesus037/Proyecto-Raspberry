@@ -14,4 +14,4 @@ Instalación de Ubuntu en la Raspberry PI 400.
 
 ## Licencia
 
-[Licencia](https://github.com/jesus037/Proyecto-Raspberry/blob/47f1b1de17696eb600df6dced0807250309c504b/imagenes/licencia.png)
+[Licencia](https://github.com/jesus037/Proyecto-Raspberry/blob/main/imagenes/licencia.png)
