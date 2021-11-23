@@ -4,7 +4,7 @@ Instalación de Ubuntu en la Raspberry PI 400.
 
 ## Índice
 1. [Introducción](https://github.com/jesus037/Proyecto-Raspberry/blob/main/Introducci%C3%B3n.md)
-2. [Instalación](https://github.com/jesus037/Proyecto-Raspberry/blob/a20945f3f86c9c0ad8e66540e611888006558c24/instalacion.md)
+2. [Instalación](https://github.com/jesus037/Proyecto-Raspberry/blob/main/Instalacion.md)
 3. [Conclusiones](https://github.com/jesus037/Proyecto-Raspberry/blob/555ee177a34b4ad63b02f97332cd68b3d38d341a/conclusiones.md)
 4. [Referencias](https://github.com/jesus037/Proyecto-Raspberry/blob/main/README.md#referencias)
 
